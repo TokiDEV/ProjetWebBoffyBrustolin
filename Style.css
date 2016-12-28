@@ -1,6 +1,16 @@
 h1{
-	text-decoration : underline 
+	text-decoration : underline ;
+	text-align : center;
 }
-h1{
-	text-align : center
+h2{
+	padding-left: 100px;
+}
+p{
+	text-align: justify;
+	padding-left: 200px;
+	padding-right: 850px;
+	padding-top : 30px;
+}
+body{
+	background-color: rgb(53,205,255);
 }
