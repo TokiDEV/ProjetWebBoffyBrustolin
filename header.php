@@ -13,5 +13,6 @@
 		<li><a href="./index.php">Accueil</a></li>
 		<li><a href="./alphago.php">AlphaGO</a></li>
 		<li><a href="./nao.php">Nao</a></li>
+		<li><a href="./PARO.php">Paro</a></li>
 	</ul>
 </header>
