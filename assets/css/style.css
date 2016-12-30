@@ -54,3 +54,9 @@ li a {
 .section {
 	margin-left: 10px;
 }
+
+.section img {
+	margin-right: 15%;
+	max-width: 85%;
+	float: right;
+}
