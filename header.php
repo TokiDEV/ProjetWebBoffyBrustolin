@@ -1,12 +1,12 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-	<link rel="stylesheet" type="text/css" href="style.css" />
+	<link rel="stylesheet" type="text/css" href="assets/css/style.css" />
 	<meta charset="UTF-8">
 </head>
 <header>
 	<div>
-		<img src="background.jpg">
+		<img src="assets/img/background.jpg">
 		<p>Site web créé par Boffy Thomas et Marc Brustolin</p>
 	</div>
 	<ul>
