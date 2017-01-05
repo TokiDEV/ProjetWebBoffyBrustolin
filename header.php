@@ -11,7 +11,7 @@
 	<ul>
 		<li><a href="./index.php">Accueil</a></li>
 		<li><a href="./alphago.php">AlphaGO</a></li>
-		<li><a href="./La Robotique sociale.php">Paro</a></li>
+		<li><a href="./La Robotique sociale.php">La Robotique sociale</a></li>
 		<li><a href="./nao.php">Nao</a></li>
 		<li><a href="./paro.php">Paro</a></li>
 	</ul>
