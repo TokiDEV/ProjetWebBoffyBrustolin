@@ -1,7 +1,7 @@
 <?php require 'header.php'; ?>
     <body>
         <div class="section">
-            <img src="assets/img/alphago.png">
+            <img id="alphago" src="assets/img/alphago.png">
             <h1>Alpha Go</h1>
             <div class="section">
                 <h2>Brève description</h2>

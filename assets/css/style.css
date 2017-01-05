@@ -4,6 +4,30 @@ body {
 	font-family: Ubuntu, sans-serif;
 }
 
+form {
+	margin-right: auto;
+	margin-left: auto;
+	padding: 10px;
+	max-width: 85%;
+	border: 2px solid #CCC;
+	border-radius: 2px;
+}
+
+label {
+	display: block;
+}
+
+input, textarea {
+	margin-top: 5px;
+	width: 100%;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+
+textarea {
+	height: 100px;
+}
+
 header div {
 	height: 300px;
 	overflow: hidden;
@@ -31,7 +55,7 @@ ul {
 
 li {
 	display: inline-block;
-	width: 20%;
+	width: 16%;
 	height: 40px;
 	line-height: 40px;
 	margin: 0;
@@ -55,8 +79,35 @@ li a {
 	margin-left: 10px;
 }
 
-.section img {
+#alphago {
 	margin-right: 15%;
 	max-width: 85%;
 	float: right;
+}
+
+.img-centered {
+	text-align: center;
+}
+
+.img-centered:before {
+	content: "";
+	display: inline-block;
+	height: 100%;
+	vertical-align: middle;
+}
+
+.img-centered img {
+	max-width: 90%;
+	vertical-align: middle;
+}
+
+.field {
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+}
+
+#contact {
+	text-align: center;
 }
